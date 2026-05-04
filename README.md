@@ -1,2 +1,2 @@
 # ProjetosEST
-Programas voltados as modalidades da Robótica Paraíba
+Programas voltados as **modalidades** da *Robótica Paraíba*
